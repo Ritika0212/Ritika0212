@@ -1,4 +1,5 @@
-## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ritika Thakur
+Copy
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ritika Thakur
 ======================================================================================================================================
 
 Data Scientist
@@ -15,12 +16,12 @@ Data Scientist
 
 <p align="left"> <a href="https://www.github.com/Ritika0212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.youtube.com/@RitikaThakur-t2b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a></p>
 <a href="https://www.github.com/Ritika0212" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ritika0212?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
+src="https://img.shields.io/github/followers/Ritika0212?logo=github&style=for-the-badge&color=0f172a&labelColor=22272e" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Ritika0212"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika0212&stroke=14b8a6&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>Hi there 👋
+<a href="http://www.github.com/Ritika0212"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritika0212&stroke=14b8a6&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a
 
 <!--
 **Ritika0212/Ritika0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
